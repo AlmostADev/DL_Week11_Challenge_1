@@ -19,9 +19,9 @@
 - En el archivo ***routes.rb*** agregar la ruta que apunta al controlador ***pages*** con el método ***three***. :heavy_check_mark:
 - Agregar un título *h2* y un párrafo *Lorem ipsum* a la página ***three*** :heavy_check_mark:
 - Añadir los cambios y hacer el <u>*tercer commit*</u>. :heavy_check_mark:
-- Agregar un *navbar* al layout. :x:
+- Agregar un *navbar* al layout. :heavy_check_mark:
   > El *navbar* debe contener la clase *navbar-inverse* y su estructura sólo debe contener 3 links donde cada uno llevará a la página correspondiente.
-- Añadir los cambios y hacer el <u>*cuarto commit*</u>. :x:
+- Añadir los cambios y hacer el <u>*cuarto commit*</u>. :heavy_check_mark:
 - Crear un repositorio en *GitHub*. :x:
 - Añadir el *remote* al repositorio de *GitHub* y hacer *push*. :x:
 - Inicializar proyecto en *Heroku* y hacer *push*. :x:
