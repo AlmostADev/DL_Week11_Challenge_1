@@ -14,11 +14,11 @@
 - Ejecutar el comando *rake routes* en la terminal y obtener una captura de pantalla del resultado. :heavy_check_mark:
 - Insertar la imagen de la captura de pantalla obtenida a la página ***two***. :heavy_check_mark:
 - Añadir los cambios y hacer el <u>*segundo commit*</u>. :heavy_check_mark:
-- Agregar el método ***three*** al controlador ***Pages***. :x:
-- Agregar un archivo llamado ***three.html.erb*** a la carpeta ***views*** del controlador ***pages***. :x:
-- En el archivo ***routes.rb*** agregar la ruta que apunta al controlador ***pages*** con el método ***three***. :x:
-- Agregar un título *h2* y un párrafo *Lorem ipsum* a la página ***three*** :x:
-- Añadir los cambios y hacer el <u>*tercer commit*</u>. :x:
+- Agregar el método ***three*** al controlador ***Pages***. :heavy_check_mark:
+- Agregar un archivo llamado ***three.html.erb*** a la carpeta ***views*** del controlador ***pages***. :heavy_check_mark:
+- En el archivo ***routes.rb*** agregar la ruta que apunta al controlador ***pages*** con el método ***three***. :heavy_check_mark:
+- Agregar un título *h2* y un párrafo *Lorem ipsum* a la página ***three*** :heavy_check_mark:
+- Añadir los cambios y hacer el <u>*tercer commit*</u>. :heavy_check_mark:
 - Agregar un *navbar* al layout. :x:
   > El *navbar* debe contener la clase *navbar-inverse* y su estructura sólo debe contener 3 links donde cada uno llevará a la página correspondiente.
 - Añadir los cambios y hacer el <u>*cuarto commit*</u>. :x:
