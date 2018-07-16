@@ -22,6 +22,6 @@
 - Agregar un *navbar* al layout. :heavy_check_mark:
   > El *navbar* debe contener la clase *navbar-inverse* y su estructura sólo debe contener 3 links donde cada uno llevará a la página correspondiente.
 - Añadir los cambios y hacer el <u>*cuarto commit*</u>. :heavy_check_mark:
-- Crear un repositorio en *GitHub*. :x:
-- Añadir el *remote* al repositorio de *GitHub* y hacer *push*. :x:
-- Inicializar proyecto en *Heroku* y hacer *push*. :x:
+- Crear un repositorio en *GitHub*. :heavy_check_mark:
+- Añadir el *remote* al repositorio de *GitHub* y hacer *push*. :heavy_check_mark:
+- Inicializar proyecto en *Heroku* y hacer *push*. :heavy_check_mark:
